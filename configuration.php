@@ -30,7 +30,7 @@ class JConfig {
 	public $ftp_enable = '0';
 	public $offset = 'UTC';
 	public $mailer = 'smtp';
-	public $mailfrom = 'info@granyagonzalez.com';
+	public $mailfrom = 'info@endermologiacristal.com';
 	public $fromname = '';
 	public $sendmail = '/usr/sbin/sendmail';
 	public $smtpauth = '1';
